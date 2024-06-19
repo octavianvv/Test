@@ -8,5 +8,3 @@ nume_produs = input("nume produs: ")
 variabila.write(f"\n{nume_produs}")
 # inchidem fisierul
 variabila.close()
-
-#sa incarc pe github shopping_cart.py
